@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1540840536 source:x:\editorgraficofinal\editor.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<math.h>
+	<dos.h>
+	<windows.h>
+	"LIB01.h"
+	"EDITOR_BUTTON.h"
+	"EDITOR_PALETA.h"
+	"EDITOR_WORDS.h"
+	"EDITOR_INTERFACE.h"
+
+1266119414 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1536347114 x:\editorgraficofinal\lib01.h
+
+1537544021 x:\editorgraficofinal\button.h
+
+1540787001 x:\editorgraficofinal\editor_words.h
+
+1537506164 x:\editorgraficofinal\editor_grid_gen.h
+
+1540781355 x:\editorgraficofinal\editor_interface.h
+
+1539655636 x:\editorgraficofinal\editor_button.h
+
+1539703185 source:w:\editorgraficofinal\editor.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<math.h>
+	"LIB01.h"
+	"EDITOR_BUTTON.h"
+	"EDITOR_WORDS.h"
+	"EDITOR_INTERFACE.h"
+	"EDITOR_PALETA.h"
+
+1536347114 w:\editorgraficofinal\lib01.h
+
+1539655653 w:\editorgraficofinal\editor_button.h
+
+1539655528 w:\editorgraficofinal\editor_words.h
+
+1539703185 w:\editorgraficofinal\editor_interface.h
+
+1539703185 source:\\mac\dropbox\editorgraficofinal\editor.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<math.h>
+	"LIB01.h"
+	"EDITOR_BUTTON.h"
+	"EDITOR_WORDS.h"
+	"EDITOR_INTERFACE.h"
+	"EDITOR_PALETA.h"
+
+1536347114 \\mac\dropbox\editorgraficofinal\lib01.h
+
+1539655653 \\mac\dropbox\editorgraficofinal\editor_button.h
+
+1539655528 \\mac\dropbox\editorgraficofinal\editor_words.h
+
+1539703185 \\mac\dropbox\editorgraficofinal\editor_interface.h
+
+1539703185 \\mac\dropbox\editorgraficofinal\editor_paleta.h
+
+1539703185 w:\editorgraficofinal\editor_paleta.h
+
+1540786824 x:\editorgraficofinal\editor_paleta.h
+
+1540838559 source:c:\users\angel alvarado\dropbox\editorgraficofinal\editor.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<math.h>
+	<dos.h>
+	<windows.h>
+	"LIB01.h"
+	"EDITOR_BUTTON.h"
+	"EDITOR_PALETA.h"
+	"EDITOR_WORDS.h"
+	"EDITOR_INTERFACE.h"
+
+1536347114 c:\users\angel alvarado\dropbox\editorgraficofinal\lib01.h
+
+1539655636 c:\users\angel alvarado\dropbox\editorgraficofinal\editor_button.h
+
+1540786824 c:\users\angel alvarado\dropbox\editorgraficofinal\editor_paleta.h
+
+1540787001 c:\users\angel alvarado\dropbox\editorgraficofinal\editor_words.h
+
+1542584144 c:\users\angel alvarado\dropbox\editorgraficofinal\editor_interface.h
+
+1540838559 source:c:\users\angel alvarado\desktop\editorgraficofinal\editor.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<string.h>
+	<math.h>
+	<dos.h>
+	<windows.h>
+	"LIB01.h"
+	"EDITOR_BUTTON.h"
+	"EDITOR_PALETA.h"
+	"EDITOR_WORDS.h"
+	"EDITOR_INTERFACE.h"
+
+1536347114 c:\users\angel alvarado\desktop\editorgraficofinal\lib01.h
+
+1539655636 c:\users\angel alvarado\desktop\editorgraficofinal\editor_button.h
+
+1540786824 c:\users\angel alvarado\desktop\editorgraficofinal\editor_paleta.h
+
+1540787001 c:\users\angel alvarado\desktop\editorgraficofinal\editor_words.h
+
+1542599046 c:\users\angel alvarado\desktop\editorgraficofinal\editor_interface.h
+
